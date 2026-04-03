@@ -14,11 +14,13 @@ The analysis highlights how different industries were affected, compares the sca
 ## 📈 Key Insights
 - **COVID-19 (2020–2021):**  
   Industries dependent on in-person interaction (e.g., travel, food services, transportation, booking) experienced the most     severe impact.
+  
  👉 Layoffs were widespread as restrictions disrupted physical operations.  
 
 - **Post-COVID (2022–2023):**  
   A surprising shift occurred—**tech and online-focused industries** began mass layoffs.  
-  These sectors had aggressively hired during the pandemic to meet digital demand, but later corrected by reducing workforce numbers.  
+  These sectors had aggressively hired during the pandemic to meet digital demand, but later corrected by reducing workforce numbers.
+  
 👉 This contrast highlights how **pandemic-driven demand spikes** created short-term hiring booms, followed by **post-pandemic rationalization**.
 
 ## 📊 Visualizations
