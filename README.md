@@ -30,9 +30,4 @@ The analysis highlights how different industries were affected, compares the sca
 
 *(Charts and graphs created in Excel are included in the repo.)*
 
-## 🚀 How to Use
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/vishalyt93-gif/layoff-analysis.git
-
 
